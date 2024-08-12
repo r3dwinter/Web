@@ -24,22 +24,5 @@ section {
     background-position: center;
 }
 
-.bg-blue-600 {
-    background-color: #2563eb;
-}
-
-.hover\:text-blue-500:hover {
-    color: #3b82f6;
-}
-
-.shadow-lg {
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
-}
-
-.hover\:shadow-xl:hover {
-    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.15);
-}
-
-.bg-gradient-to-r {
-    background: linear-gradient(to right, #f7fafc, #ebf8ff);
-}
+.bg-black {
+    background-color: rgba(0, 0, 0, 0.5);
